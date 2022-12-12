@@ -11,4 +11,3 @@ def test_click_sun_icon(browser):
     page.browser.find_element(*LandingPageLocators.SUN_ICON_HEADER_BUTTON).click()
     
     time.sleep(10)
-

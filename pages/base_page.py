@@ -1,4 +1,5 @@
 class BasePage():    
+    
     def __init__(self, browser, link) -> None:
         """Creating BasePage class\n
         
