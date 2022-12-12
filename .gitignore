@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+env
+.pytest_cache
+report
+chromedriver.exe
